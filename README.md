@@ -11,3 +11,11 @@
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Ziad Elsayes, Felip Guimera Cuevas, Yannick Kaiser
+ 
+Sie erreichen den Dozenten und die Tutoren unter:
+
+cla2018 [at] cis [dot] uni [minus] muenchen [dot] de
+ 
+ Anmeldung zur Vorlesung:
+ - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
+ - Studenten mit Informatik als Hauptfach benutzen bitte das [Webformular](https://goo.gl/forms/dWc8CmnCf8mi2Ur73){:target="_blank"}
