@@ -14,7 +14,7 @@
  
 Sie erreichen den Dozenten und die Tutoren unter:
 
-cla2018 [at] cis [dot] uni [minus] muenchen [dot] de
+sp1819 [at] cis [dot] uni [minus] muenchen [dot] de
  
  Anmeldung zur Vorlesung:
  - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
