@@ -6,7 +6,7 @@
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
  - Zeit/Übung: Do 16:00-18:00 (c.t.) 
  - Ort/Übung: Hörsaal L 155, Oettingenstr. 67
- - Zeit/Tutorat: Do 14:00-16:00
+ - Zeit/Tutorat: Do 14:00-16:00 (c.t.)
  - Ort/Tutorat: CIP Pool (Sibirien/Gobi)
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
@@ -23,4 +23,4 @@ sp1819 [at] cis [dot] uni [minus] muenchen [dot] de
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 16, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  |  |
-| Oct. 18, 2017 | Keine Übung in L155, stattdessen Hilfe bei Git und Erstellung der Übungsgruppen in Sibirien /Gobi. |  |  |
+| Oct. 18, 2017 | Keine Übung in L155, stattdessen Hilfe bei Git und Erstellung der Übungsgruppen in Sibirien/Gobi (ab 14:15). |  |  |
