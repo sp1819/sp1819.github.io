@@ -23,4 +23,4 @@ sp1819 [at] cis [dot] uni [minus] muenchen [dot] de
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 16, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  |  |
-| Oct. 18, 2017 | Keine Übung in L155, stattdessen Hilfe bei Git und Erstellung der Übungsgruppen in Sibirien/Gobi (ab 14:15). |  |  |
+| Oct. 18, 2017 | Heute keine Übung in L155, stattdessen Hilfe bei Git und Erstellung der Übungsgruppen in Sibirien/Gobi (ab 14:15). |  |  |
