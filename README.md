@@ -20,7 +20,7 @@ sp1819 [at] cis [dot] uni [minus] muenchen [dot] de
  - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
  - Studenten mit Informatik als Hauptfach benutzen bitte das [Webformular](https://goo.gl/forms/dWc8CmnCf8mi2Ur73){:target="_blank"} 
  
-Es wird empfohlen die Entwicklungsumgebeung [PyCharm](https://www.jetbrains.com/pycharm/) für die Bearbeitung der Übungsaufgaben zu nutzen, welches insbesondere auch Git unterstützt. Eine kurze Einleitung zu Pycharm befinded sich [hier](pycharm.pdf).
+Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/pycharm/) für die Bearbeitung der Übungsaufgaben zu nutzen, welches insbesondere auch Git unterstützt. Eine kurze Einleitung zu Pycharm befinded sich [hier](pycharm.pdf).
  
 
 | Date | slides | homework | materials |
