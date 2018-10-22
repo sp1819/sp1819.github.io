@@ -6,7 +6,7 @@
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
  - Zeit/Übung: Do 16:00-18:00 (c.t.) 
  - Ort/Übung: Hörsaal L 155, Oettingenstr. 67
- - Zeit/Tutorat: Do 14:00-16:00 (c.t.)
+ - Zeit/Tutorat: Do 12:00-14:00 (c.t.)
  - Ort/Tutorat: CIP Pool (Sibirien/Gobi)
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
