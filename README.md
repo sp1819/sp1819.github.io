@@ -6,7 +6,7 @@
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
  - Zeit/Übung: Do 16:00-18:00 (c.t.) 
  - Ort/Übung: Hörsaal L 155, Oettingenstr. 67
- - Zeit/Tutorat: Do 12:00-14:00 (c.t.)
+ - Zeit/Tutorat: <span style="color:red">**Do 12:00-14:00 (c.t.)**</red>
  - Ort/Tutorat: CIP Pool (Sibirien/Gobi)
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
@@ -26,5 +26,5 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 16, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  |  |
-| Oct. 18, 2017 | Heute keine Übung in L155, stattdessen Hilfe bei Git und Erstellung der Übungsgruppen in Sibirien/Gobi (ab 14:15). | [Homework 1](hw01_python_basics.pdf){:target="_blank"} | [Webformular](https://goo.gl/forms/ariX48eei9hmfVYs1){:target="_blank"} für Übungsgruppen; [Einführung in Git](git_intro_1.pdf){:target="_blank"} |
+| Oct. 18, 2017 | Heute keine Übung in L155, stattdessen Hilfe bei Git und Erstellung der Übungsgruppen in Sibirien/Gobi (ab 14:15). | [Homework 1](hw01_python_basics.pdf){:target="_blank"} <span style="color:red">**Typo bei Aufg. 4.14. Falsch: 'excluding 0'; richtig: 'excluding k'**</span>| [Webformular](https://goo.gl/forms/ariX48eei9hmfVYs1){:target="_blank"} für Übungsgruppen; [Einführung in Git](git_intro_1.pdf){:target="_blank"} |
 | Oct. 23, 2018 | [Objektorientierung I](objektorientierungI.pdf){:target="_blank"}; [Wiederholung: Listen](wiederholung-listen.pdf){:target="_blank"} |  | [OOP Skript (englisch, Zusatzmaterial)](oop_script.pdf){:target="_blank"} |
