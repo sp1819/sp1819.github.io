@@ -33,6 +33,6 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Oct. 23, 2018 | [Objektorientierung I](objektorientierungI.pdf){:target="_blank"}; [Wiederholung: Listen](wiederholung-listen.pdf){:target="_blank"} |  | [OOP Skript (englisch, Zusatzmaterial)](oop_script.pdf){:target="_blank"} |
 | Oct. 25, 2018 |  | [Homework 2](hw02_oop.pdf){:target="_blank"} | |
 | Oct. 30, 2018 | [Objektorientierung II](03_objects_modules.pdf){:target="_blank"}; [Dokumentenklasse; Unit-Test](03_documents_unittest.pdf){:target="_blank"} |  |  
-| Nov. 1, 2018 (holiday/Feiertag) |  |  [Homework 2](hw03_documents.pdf){:target="_blank"} | |
+| Nov. 1, 2018 (holiday/Feiertag) |  |  [Homework 3](hw03_documents.pdf){:target="_blank"} | |
 | Nov. 6, 2018 | [TF-IDF](04_tf_idf.pdf){:target="_blank"}; [Simple Search Engine](04_search_engine.pdf){:target="_blank"} |  |  
 
