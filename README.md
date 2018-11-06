@@ -10,7 +10,7 @@
  - Ort/Übung: [Raum W 401, Professor-Huber-Platz 2](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0420/map?room=042204401_){:target="_blank"}
  - Zeit/Tutorat: Do 16:00-18:00 (c.t.)
  - Ort/Tutorat: CIP Pool Sibirien/Gobi, Oettingenstr. 67
-
+</br>
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Ziad Elsayes, Felip Guimera Cuevas, Yannick Kaiser
