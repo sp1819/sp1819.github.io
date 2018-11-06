@@ -11,6 +11,7 @@
  - Zeit/Tutorat: Do 16:00-18:00 (c.t.)
  - Ort/Tutorat: CIP Pool Sibirien/Gobi, Oettingenstr. 67
 
+
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Ziad Elsayes, Felip Guimera Cuevas, Yannick Kaiser
  
