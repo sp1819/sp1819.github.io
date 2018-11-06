@@ -4,10 +4,12 @@
 
  - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
- - Zeit/Übung: Do 16:00-18:00 (c.t.) 
- - Ort/Übung: Hörsaal L 155, Oettingenstr. 67
- - Zeit/Tutorat: <span style="color:red">**Do 12:00-14:00 (c.t.)**</span>
- - Ort/Tutorat: CIP Pool (Sibirien/Gobi)
+
+<span style="color:red">**Neue Raumbelegung/Zeiten für Übung und Tutorat:**</span>
+ - Zeit/Übung: Do 12:00-14:00 (c.t.) 
+ - Ort/Übung: [Raum W 401, Professor-Huber-Platz 2](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0420/map?room=042204401_){:target="_blank"}
+ - Zeit/Tutorat: Do 16:00-18:00 (c.t.)
+ - Ort/Tutorat: CIP Pool Sibirien/Gobi, Oettingenstr. 67
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Ziad Elsayes, Felip Guimera Cuevas, Yannick Kaiser
