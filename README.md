@@ -35,4 +35,4 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Oct. 30, 2018 | [Objektorientierung II](03_objects_modules.pdf){:target="_blank"}; [Dokumentenklasse; Unit-Test](03_documents_unittest.pdf){:target="_blank"} |  |  
 | Nov. 1, 2018 (holiday/Feiertag) |  |  [Homework 3](hw03_documents.pdf){:target="_blank"} | |
 | Nov. 6, 2018 | [TF-IDF](04_tf_idf.pdf){:target="_blank"}; [Simple Search Engine](04_search_engine.pdf){:target="_blank"} |  |  
-| Nov. 8, 2018 | | [Homework 4](hw04_text_search.pdf){:target="_blank"} | [enron.tgz](enron.tgz){:target="_blank"} <span style="color:red">**Achtung: Fehler im Test. Verwenden Sie bitte: [test_comprehensions_new.py](test_comprehensions_new.py){:target="_blank"}**</span> |
+| Nov. 8, 2018 | | [Homework 4](hw04_text_search.pdf){:target="_blank"} <span style="color:red">**Achtung: Fehler im Test. Verwenden Sie bitte: [test_comprehensions_new.py](test_comprehensions_new.py){:target="_blank"}**</span>  | [enron.tgz](enron.tgz){:target="_blank"} |
