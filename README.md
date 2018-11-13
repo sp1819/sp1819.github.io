@@ -36,3 +36,5 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Nov. 1, 2018 (holiday/Feiertag) |  |  [Homework 3](hw03_documents.pdf){:target="_blank"} | |
 | Nov. 6, 2018 | [TF-IDF](04_tf_idf.pdf){:target="_blank"}; [Simple Search Engine](04_search_engine.pdf){:target="_blank"} |  |  
 | Nov. 8, 2018 | | [Homework 4](hw04_text_search.pdf){:target="_blank"} <span style="color:red">**Deadline verlängert (siehe Blatt). Verwenden Sie bitte: [test_comprehensions_new.py](test_comprehensions_new.py){:target="_blank"}**</span>  | [enron.tgz](enron.tgz){:target="_blank"} |
+|Nov. 13, 2018 | [Objektorientierung III](objektorientierungIII.pdf){:target="_blank"}; [Klassifikation](maschinelles_lernen_intro.pdf){:target="_blank"} |  |  |
+
