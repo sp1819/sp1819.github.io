@@ -39,5 +39,5 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 |Nov. 13, 2018 | [Objektorientierung III](objektorientierungIII.pdf){:target="_blank"}; [Klassifikation](maschinelles_lernen_intro.pdf){:target="_blank"} |  |  |
 | Nov. 15, 2018 | Übung: Evaluationsmethoden; Fragestunde |  |  |
 | Nov. 20, 2018 | [Perceptron](perceptron_short.pdf){:target="_blank"} | |Literatur: Hal Daume [(pdf)](http://www.ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf){:target="_blank"}|
-| Nov. 22, 2018 | | [Homework 5](hw05_perceptron.pdf){:target="_blank"}  | |
+| Nov. 22, 2018 | | [Homework 5](hw05_perceptron.pdf){:target="_blank"} <span style="color:red">**Hinweis: Verwenden Sie als Labels +1/-1 (wie im pdf verlangt)**</span> | |
 
