@@ -43,4 +43,3 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Nov. 27, 2018 | [Unsupervised vs Supervised Learning](Unsupervised_vs_Supervised_Learning.pdf){:target="_blank"} | | [Link zur Mittsemester-Evaluation](https://www.lehrevaluation.uni-muenchen.de/evasys/online/){:target="_blank"} (bitte benutzen Sie die in der VL ausgeteilete TAN - Danke!) |
 | Nov. 29, 2018 |  | [Homework 6](hw06_knn.pdf){:target="_blank"} | |
 | Dec. 4, 2018 | [NLTK](nltk.pdf){:target="_blank"}| |
-| Dec. 6, 2018 |  | [Homework 7](hw07_kmeans.pdf){:target="_blank"} | [courses.txt](courses.txt){:target="_blank"}|
