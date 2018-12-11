@@ -44,3 +44,4 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Nov. 29, 2018 |  | [Homework 6](hw06_knn.pdf){:target="_blank"} | |
 | Dec. 4, 2018 | [NLTK](nltk.pdf){:target="_blank"}| |
 | Dec. 6, 2018 |  | [Homework 7](hw07_kmeans.pdf){:target="_blank"} | [courses.txt](courses.txt){:target="_blank"}|
+| Dec. 4, 2018 | [NLTK vs spaCy](nltk-spacy.pdf){:target="_blank"}| |
