@@ -46,3 +46,4 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Dec. 6, 2018 |  | [Homework 7](hw07_kmeans.pdf){:target="_blank"} | [courses.txt](courses.txt){:target="_blank"}|
 | Dec. 11, 2018 | [NLTK vs spaCy](nltk-spacy.pdf){:target="_blank"}| |
 | Dec. 13, 2018 |  | [Homework 8](08.pdf){:target="_blank"} | [ada_lovelace.txt](ada_lovelace.txt){:target="_blank"}|
+| Dec. 18, 2018 | [WordNet](wordnet_spacy.pdf){:target="_blank"}| |
