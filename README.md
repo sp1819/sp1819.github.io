@@ -48,3 +48,4 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Dec. 13, 2018 |  | [Homework 8](08.pdf){:target="_blank"} | [ada_lovelace.txt](ada_lovelace.txt){:target="_blank"}|
 | Dec. 18, 2018 | [WordNet](wordnet_spacy.pdf){:target="_blank"}| |
 | Dec. 20, 2018 |  | [Homework 9](wordnet.pdf){:target="_blank"} | |
+| Jan. 8, 2019 | [Crawling; POS Tagging](crawling_pos.pdf){:target="_blank"}| |
