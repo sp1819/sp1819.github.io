@@ -67,7 +67,7 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Dec. 20, 2018 |  | [Homework 9](wordnet.pdf){:target="_blank"} | |
 | Jan. 8, 2019 | [Crawling; POS Tagging](crawling_pos.pdf){:target="_blank"}| |
 | Jan. 10, 2019 |  | [Homework 10](crawling.pdf){:target="_blank"} | [hydrogenics_report.txt](hydrogenics_report.txt){:target="_blank"}|
-| Jan. 15, 2019 | [Summary](summary_.pdf){:target="_blank"}; [Probeklausur Vorlesung](probe_klausur_vl.pdf){:target="_blank"}; [Probeklausur Übung](probe_klausur_ue.pdf){:target="_blank"} | |
+| Jan. 15, 2019 | [Summary](summary.pdf){:target="_blank"}; [Probeklausur Vorlesung](probe_klausur_vl.pdf){:target="_blank"}; [Probeklausur Übung](probe_klausur_ue.pdf){:target="_blank"} | |
 | Jan. 22, 2019 | Besprechung Probeklausur Vorlesung; Fragestunde Ben| |
 | Jan. 29, 2019 | Besprechung Probeklausur Übung; Fragestunde Marina| |
 | Feb. 5 , 2019 | Klausur| |
