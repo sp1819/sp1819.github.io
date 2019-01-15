@@ -24,13 +24,12 @@
   * Beginn: 16:00
   * Dauer: 45 Minuten
   * Ort; über LSF angemeldete Studierende: [Raum S001, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300001_){:target="_blank"} 
-  * Ort; Informatiker: [Raum S006, Schellingstr. 3] (https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300006_){:target="_blank"} 
-  * Informatik-Nebenfächler können nur die Vorlesungsklausur mitschreiben
+  * Ort; Informatiker: [Raum S006, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300006_){:target="_blank"} (Informatik-Nebenfächler können nur die Vorlesungsklausur mitschreiben)
   * Themen: Stoff der Vorlesung
 * Klausur-Teil "Übung": 
   * Beginn: 17:00
   * Dauer: 45 Minuten
-  * Ort: Raum S001, Schellingstr. 3
+  * Ort: [Raum S001, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300001_){:target="_blank"} 
   * Themen: Programmier-Übungen und Aufgaben in Python
   
 Sie erreichen den Dozenten und die Tutoren unter:
