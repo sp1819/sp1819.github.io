@@ -23,8 +23,8 @@
 * Klausur-Teil "Vorlesung":
   * Beginn: 16:00
   * Dauer: 45 Minuten
-  * Ort; über LSF angemeldete Studierende: [Raum S001, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300001_){:target="_blank"} 
-  * Ort; Informatiker: [Raum S006, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300006_){:target="_blank"} (Informatik-Nebenfächler können nur die Vorlesungsklausur mitschreiben)
+  * Ort: über LSF angemeldete Studierende: [Raum S001, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300001_){:target="_blank"} 
+  * Ort: Informatiker: [Raum S006, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300006_){:target="_blank"} (Informatik-Nebenfächler können nur die Vorlesungsklausur mitschreiben)
   * Themen: Stoff der Vorlesung
 * Klausur-Teil "Übung": 
   * Beginn: 17:00
@@ -67,3 +67,4 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 | Dec. 20, 2018 |  | [Homework 9](wordnet.pdf){:target="_blank"} | |
 | Jan. 8, 2019 | [Crawling; POS Tagging](crawling_pos.pdf){:target="_blank"}| |
 | Jan. 10, 2019 |  | [Homework 10](crawling.pdf){:target="_blank"} | [hydrogenics_report.txt](hydrogenics_report.txt){:target="_blank"}|
+
