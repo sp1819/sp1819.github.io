@@ -17,7 +17,7 @@
 
 <span style="color:red">**Die Klausur findet am Dienstag, den 5.2.2019 um 16:00 statt.**</span>
 * <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
-* <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/H5Mpupxxa028ouzL2){:target="_blank"}</span>
+* <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das Webformular</span>
 * Sie können je Klausurteil (Vorlesung, Übung) ein selbst von Hand beschriebenes 2-seitiges Din-A4 Blatt mit zur Klausur bringen. Andere Hilfsmittel sind nicht erlaubt. Das Merkblatt wird mit dem jeweiligen Klausurteil eingesammelt.
 * Die Klausur besteht aus zwei Teilen. 
 * Klausur-Teil "Vorlesung":
