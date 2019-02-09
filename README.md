@@ -5,7 +5,7 @@
  - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
 
-<span style="color:red">**[Ergebnisse der Klausur zur Vorlesung](ergebnisse_vl){:target="_blank"} und [Ergebnisse der Klausur zur Übung](ergebnisse_ue){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.)
+<span style="color:red">**[Ergebnisse der Klausur zur Vorlesung](ergebnisse_vl){:target="_blank"} und [Ergebnisse der Klausur zur Übung](ergebnisse_ue){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Freitag, 15.2.2018, 15:00-16:00 Raum C 105.
 
 <span style="color:red">**Neue Raumbelegung/Zeiten für Übung und Tutorat:**</span>
  - Zeit/Übung: Do 12:00-14:00 (c.t.) 
