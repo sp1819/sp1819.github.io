@@ -33,7 +33,6 @@ die Note wird nach obigem Notenschema festgelegt.
 | Matr.Nr. | Punkte Klausur | Incl. Bonus | Note|
 |---|---|---|---|
 | 10365352 | 14 | 14 | NB |
-| 10371137 | 21 | 24 | 2 |
 | 10371137 | 22 | 25 | 2 |
 | 10738132 | 23 | 25.6 | 1.7 |
 | 10951459 | 30 | 32.1 | 1 |
