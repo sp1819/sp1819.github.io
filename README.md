@@ -5,6 +5,22 @@
  - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
 
+<span style="color:red">**Die Wiederholungsklausur findet am Samstag, den 27.4.2019 um 16:00 statt.**</span>
+* <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach, welches über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
+* <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das Webformular (wird noch verlinkt)</span>
+* Sie können je Klausurteil (Vorlesung, Übung) ein selbst von Hand beschriebenes 2-seitiges Din-A4 Blatt mit zur Klausur bringen. Andere Hilfsmittel sind nicht erlaubt. Das Merkblatt wird mit dem jeweiligen Klausurteil eingesammelt.
+* Die Klausur besteht aus zwei Teilen. 
+* Klausur-Teil "Vorlesung":
+  * Beginn: 16:00
+  * Dauer: 45 Minuten
+  * Ort: 
+  * Themen: Stoff der Vorlesung
+* Klausur-Teil "Übung": 
+  * Beginn: 17:00
+  * Dauer: 45 Minuten
+  * Ort: [Raum S001, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300001_){:target="_blank"} 
+  * Themen: Stoff, der in den Übungsaufgaben vertieft wurde
+
 <span style="color:red">**[Ergebnisse der Klausur zur Vorlesung](ergebnisse_vl){:target="_blank"} und [Ergebnisse der Klausur zur Übung](ergebnisse_ue){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Freitag, 15.2.2018, 15:00-16:00 Raum C 105 (Oettingenstr. 67).
 
 <span style="color:red">**Neue Raumbelegung/Zeiten für Übung und Tutorat:**</span>
@@ -27,12 +43,10 @@
   * Dauer: 45 Minuten
   * Ort: über LSF angemeldete Studierende: [Raum S001, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300001_){:target="_blank"} 
   * Ort: Informatiker: [Raum S006, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300006_){:target="_blank"} (Informatik-Nebenfächler können nur die Vorlesungsklausur mitschreiben)
-  * Themen: Stoff der Vorlesung
 * Klausur-Teil "Übung": 
   * Beginn: 17:00
   * Dauer: 45 Minuten
   * Ort: [Raum S001, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300001_){:target="_blank"} 
-  * Themen: Programmier-Übungen und Aufgaben in Python
   
 Sie erreichen den Dozenten und die Tutoren unter:
 
