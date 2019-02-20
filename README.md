@@ -13,12 +13,12 @@
 * Klausur-Teil "Vorlesung":
   * Beginn: 16:00
   * Dauer: 45 Minuten
-  * Ort: 
+  * Ort: Oettingenstr. 67 (B) - B U101
   * Themen: Stoff der Vorlesung
 * Klausur-Teil "Übung": 
   * Beginn: 17:00
   * Dauer: 45 Minuten
-  * Ort: [Raum S001, Schellingstr. 3](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0200/map?room=020300001_){:target="_blank"} 
+  * Ort: Oettingenstr. 67 (B) - B U101
   * Themen: Stoff, der in den Übungsaufgaben vertieft wurde
 
 <span style="color:red">**[Ergebnisse der Klausur zur Vorlesung](ergebnisse_vl){:target="_blank"} und [Ergebnisse der Klausur zur Übung](ergebnisse_ue){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Freitag, 15.2.2018, 15:00-16:00 Raum C 105 (Oettingenstr. 67).
