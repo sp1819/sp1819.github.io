@@ -7,7 +7,7 @@
 
 <span style="color:red">**Die Wiederholungsklausur findet am Samstag, den 27.4.2019 um 16:00 statt.**</span>
 * <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach, welches über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
-* <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das Webformular (wird noch verlinkt)</span>
+* <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSepxej9C7cpDRRL-JJjlUVD9kvsmdj3RhkvB4KJqWzS885NQg/viewform){:target="_blank"}</span>
 * Sie können je Klausurteil (Vorlesung, Übung) ein selbst von Hand beschriebenes 2-seitiges Din-A4 Blatt mit zur Klausur bringen. Andere Hilfsmittel sind nicht erlaubt. Das Merkblatt wird mit dem jeweiligen Klausurteil eingesammelt.
 * Die Klausur besteht aus zwei Teilen. 
 * Klausur-Teil "Vorlesung":
