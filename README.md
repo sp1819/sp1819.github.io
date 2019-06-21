@@ -5,7 +5,7 @@
  - Zeit/Vorlesung: Di 16:00-18-00 (c.t.)
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
 
-<span style="color:red">**Ergebnisse der Nachklausur vom 27.4.2019: [Ergebnisse der Klausur zur Vorlesung](ergebnisse_vl){:target="_blank"} und [Ergebnisse der Klausur zur Übung](ergebnisse_ue){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Freitag, 28.4.2018, 16:00 Raum C 105 (Oettingenstr. 67).
+<span style="color:red">**Ergebnisse der Nachklausur vom 27.4.2019: [Ergebnisse der Klausur zur Vorlesung](ergebnisse_vl){:target="_blank"} und [Ergebnisse der Klausur zur Übung](ergebnisse_ue){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Freitag, 28.6.2018, 16:00 Raum C 105 (Oettingenstr. 67).
 
 <span style="color:red">**Neue Raumbelegung/Zeiten für Übung und Tutorat:**</span>
  - Zeit/Übung: Do 12:00-14:00 (c.t.) 
